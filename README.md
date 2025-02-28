@@ -27,5 +27,6 @@ Feature encoding with category_encoders library
 The logistic regression model achieved an accuracy of X.XX%, and the classification report highlighted the precision and recall values for both the rainy and non-rainy classes.
 Visualized the model performance with probability predictions and classification heatmaps to interpret the predictions better.
 This project enhanced my skills in data preprocessing, feature engineering, and model evaluation. The model could be further extended with other machine learning algorithms to enhance performance!
+
 💡 Next Steps: Plan to test this model with more complex algorithms like Random Forests or Gradient Boosting to compare performance.
 hashtag#machinelearning hashtag#datascience hashtag#logisticregression hashtag#weatherprediction hashtag#featureengineering hashtag#dataanalysis hashtag#python
